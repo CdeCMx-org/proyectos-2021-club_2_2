@@ -1,7 +1,7 @@
 ## SUELA DE BIOPLÁSTICO
 
 <p align="justify">
-Resumen: Una de las inquietudes más grandes en nuestro país es el incremento de la contaminación, siendo gran parte por el plástico convencional hecho a base de petróleo, es por ello que la biotecnología se ha encargado de encontrar una manera de reemplazarlos por los llamados bioplásticos. Por esta misma razón hemos decidido realizar un prototipo de suelas en base a esta gran herramienta considerando principalmente las necesidades de nuestro estado(Guanajuato) y del país en general para ayudar a esta industria a ser más sustentable.
+Resumen: Una de las inquietudes más grandes en nuestro país es el incremento de la contaminación, siendo gran parte por el plástico convencional hecho a base de petróleo, es por ello que la biotecnología se ha encargado de encontrar una manera de reemplazarlos por los llamados bioplásticos. Por esta misma razón hemos decidido realizar un prototipo de suelas en base a esta gran herramienta considerando principalmente las necesidades de nuestro estado (Guanajuato) y del país en general para ayudar a esta industria a ser más sustentable.
 </p>
 
 ### Introducción
@@ -52,9 +52,12 @@ _Figura 2:G.Vásquez.(2018).Suela de bioplástico.[fotografía]._
 ### Conclusiones
 
 <p align="justify">
-Con base en las investigaciones realizadas, consideramos que tenemos una gran herramienta a explotar en un ámbito que nos beneficiará a todos como ciudadanos a largo plazo. Actualmente, no es muy amplio este sector y por lo tanto aún hay grandes retos por superar para lograr llevar a cabo este tipo de proyectos. 
-Con lo que respecta a nuestro prototipo, es una idea que proponemos con el fin de lograr un cambio favorable y una vez mejorada podría representar una opción viable para su uso en la industria zapatera en Guanajuato, ya que representa a un camino de consumo/producción más amigable con el medio ambiente. Sin embargo, otra variable a considerar será el precio de producción, ya que es más alto que el de un plástico convencional, pero a futuro puede representar una reducción importante en la cantidad de residuos plásticos generados.
-No descartamos que en unos años más se pueda llevar a cabo de una manera óptima y a una gran escala tomando en cuenta el gran avance de la ciencia y tecnología en conjunto.
+Con base en las investigaciones realizadas, consideramos que tenemos una gran herramienta a explotar en un ámbito que nos beneficiará a todos como ciudadanos a largo plazo. Actualmente, no es muy amplio este sector y por lo tanto aún hay grandes retos por superar para lograr llevar a cabo este tipo de proyectos. Con lo que respecta a nuestro prototipo, es una idea que proponemos con el fin de lograr un cambio favorable y una vez mejorada podría representar una opción viable para su uso en la industria zapatera en Guanajuato, ya que representa a un camino de consumo/producción más amigable con el medio ambiente. 
+
+Asimismo, se plantea el uso de Análisis Térmico Simultáneo (DSC) para medir el Tg actual en futuros prototipos; planteando diferentes concentraciones de almidón y modificaciones químicas al integrar diversas combinaciones de biopolímeros. A modo de mejorar la flexibilidad y dureza obtenida en el prototipo actual que todavía dista de ser apta para uso humano.  
+ 
+Sin embargo, otra variable a considerar será el precio de producción, ya que es más alto que el de un plástico convencional, pero a futuro puede representar una reducción importante en la cantidad de residuos plásticos generados. No descartamos que en unos años más se pueda llevar a cabo de una manera óptima y a una gran escala tomando en cuenta el gran avance de la ciencia y tecnología en conjunto.
+
 
 </p>
  
