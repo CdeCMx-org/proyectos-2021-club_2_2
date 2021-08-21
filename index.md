@@ -17,8 +17,7 @@ Se ha inspirado este proyecto en lo aprendido en el club 2 "Learning machín de 
 </p>
  
  ![old-shoes-nike](https://user-images.githubusercontent.com/89149133/130328649-9ce9625f-a031-4ee6-a889-ef9033ef59c8.jpg)
-_Figura 1: Desperdicios de la industria textil_
-### Métodología
+_Figura 1: Desperdicios de la industria textil. (2016). [fotografía].  Recuperado de wwwhttps://earthwiseradio.org/2016/06/shoes-from-garbage/_
 
 <p align="justify">
 Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
@@ -46,7 +45,7 @@ El resultado obtenido al final de cuatro días fue una suela de plástico con un
  
 ![prueba](https://user-images.githubusercontent.com/89149133/130329061-9318b2f8-f8d0-464c-bc24-05bd18f0489c.jpeg)
 
-_Figura 2: Suela de bioplástico_
+_Figura 2:_ G.Vásquez_Suela de bioplástico_.(2018)[fotografía].
  
 
  
