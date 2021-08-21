@@ -17,17 +17,17 @@ Se ha inspirado este proyecto en lo aprendido en el club 2 "Learning machín de 
 
 Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
 
- 1. En una olla de cocina diluimos fécula de maíz con agua de forma uniforme, hasta que la masa tuviera una consistencia homogénea. La proporción utilizada fue de 1 cucharada por 4 cucharadas de agua. Sin embargo, esto puede variar dependiendo de las condiciones ambientales y se recomienda variar la cantidad en caso de ser necesario hasta obtener una mezcla homogénea.   
+1. En una olla de cocina diluimos fécula de maíz con agua de forma uniforme, hasta que la masa tuviera una consistencia homogénea. La proporción utilizada fue de 1 cucharada por 4 cucharadas de agua. Sin embargo, esto puede variar dependiendo de las condiciones ambientales y se recomienda variar la cantidad en caso de ser necesario hasta obtener una mezcla homogénea.   
 
- 2.En la mezcla previamente realizada, agregamos glicerina y vinagre a dicha mezcla.  Posteriormente la calentamos a fuego lento y seguimos removiendo hasta que quedó una masa gruesa sin grumos y evitando que el líquido se evaporara.
+2.En la mezcla previamente realizada, agregamos glicerina y vinagre a dicha mezcla.  Posteriormente la calentamos a fuego lento y seguimos removiendo hasta que quedó una masa gruesa sin grumos y evitando que el líquido se evaporara.
 
- 3.El uso de colorantes en el bioplástico es opcional pero se puede llevar a cabo mediante el uso de colorantes vegetales mientras se realiza la mezcla y así dar coloración al resultado final.
+3.El uso de colorantes en el bioplástico es opcional pero se puede llevar a cabo mediante el uso de colorantes vegetales mientras se realiza la mezcla y así dar coloración al resultado final.
 
- 4. Una vez que obtuvimos la pasta o masa, la dejamos secar en el molde con forma de suela y se le agregaron las semillas de alpiste aleatoriamente en la superficie. Se utilizó más glicerina (sin calentar) al molde para evitar que se presentaran complicaciones al momento de sacar el bioplastico una vez que este ya se encontrara seco. Se dejó reposar en el molde por 24 horas en un lugar con sombra.
+4. Una vez que obtuvimos la pasta o masa, la dejamos secar en el molde con forma de suela y se le agregaron las semillas de alpiste aleatoriamente en la superficie. Se utilizó más glicerina (sin calentar) al molde para evitar que se presentaran complicaciones al momento de sacar el bioplastico una vez que este ya se encontrara seco. Se dejó reposar en el molde por 24 horas en un lugar con sombra.
 
- 5.En cuanto se enfrió, retiramos el bioplástico del molde y se dejó enfriar el otro lado de la superficie de la suela.
+5.En cuanto se enfrió, retiramos el bioplástico del molde y se dejó enfriar el otro lado de la superficie de la suela.
 
- 6.Finalmente la dejamos en un lugar seco por dos días para que se terminara de secar completamente.
+6.Finalmente la dejamos en un lugar seco por dos días para que se terminara de secar completamente.
 
 
 ### Resultados
