@@ -56,7 +56,7 @@ No descartamos que en unos años más se pueda llevar a cabo de una manera ópti
  
 ### Equipo
 
-* Estudiante 1
+* Gloria Vanessa Vásquez Avelar
 * Estudiante 2
 * Estudiante 3
 * Estudiante 4
