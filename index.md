@@ -53,5 +53,3 @@ No descartamos que en unos años más se pueda llevar a cabo de una manera ópti
 * Gloria Vanessa Vásquez Avelar
 * Estudiante 2
 
-
-<width="560" height="315"[prueba](https://user-images.githubusercontent.com/89149133/130309579-0a941d1d-1bd9-4ddb-8525-3a7723e65b88.jpeg)>
