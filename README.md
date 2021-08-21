@@ -33,12 +33,7 @@ Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
 
 El resultado obtenido al final de cuatro días fue una suela de plástico con una consistencia semi-rígida, lo cual podría representar una característica favorable al momento del uso. Sin embargo, la superficie presenta una textura irregular y craquelada, detalles que necesitan ser modificados mediante la prueba de diferentes concentraciones de agua y glicerina. También podría contemplarse la utilización de otros reactivos químicos que nos permitan obtener una mejor consistencia en el resultado final.  Por último, otro factor con el que se podría jugar con la producción de la fécula de maíz por nuestra cuenta y así analizar diferentes consistencias en el resultado final. 
 
-`![](Logo_CdeCMx.png)`.
-
-![](Logo_CdeCMx.png)
-
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
+![prueba](https://user-images.githubusercontent.com/89149133/130309579-0a941d1d-1bd9-4ddb-8525-3a7723e65b88.jpeg)
 
 
 ### Conclusiones
