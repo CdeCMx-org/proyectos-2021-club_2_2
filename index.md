@@ -14,9 +14,10 @@ El objetivo del prototipo de suela de zapato que hemos desarrollado a base de bi
 Adicionalmente, nuestro enfoque son principalmente los negocios pequeños y medianos. Ya que de otra manera, las grandes industrias requieren maquinaria para cantidades de tamaño industrial y constantes inspecciones de calidad en la textura por la naturaleza de la consistencia del bioplástico en cuestión. Adicionalmente en este caso, serían requeridas toneladas de maicena, siento insumos poco rentables a gran escala en cuestión al producto generado.  
 
 Se ha inspirado este proyecto en lo aprendido en el club 2 "Learning machín de polímeros" 2021, ya que se llegó a la conclusión que las características correspondientes a los polímeros dependen del Tg (Temperatura de transición vítrea) deberán ser modificadas para así obtener la flexibilidad y soporte adecuado al consumidor. Además de tomar en cuenta un mayor rango de polímeros y biopolímeros para el perfeccionamiento de la constitución química de la suela.
-
 </p>
  
+ ![old-shoes-nike](https://user-images.githubusercontent.com/89149133/130328649-9ce9625f-a031-4ee6-a889-ef9033ef59c8.jpg)
+_Figura 1: Desperdicios de la industria textil_
 ### Métodología
 
 <p align="justify">
@@ -42,9 +43,10 @@ Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
 El resultado obtenido al final de cuatro días fue una suela de plástico con una consistencia semi-rígida, lo cual podría representar una característica favorable al momento del uso. Sin embargo, la superficie presenta una textura irregular y craquelada, detalles que necesitan ser modificados mediante la prueba de diferentes concentraciones de agua y glicerina. También podría contemplarse la utilización de otros reactivos químicos que nos permitan obtener una mejor consistencia en el resultado final.  Por último, otro factor con el que se podría jugar con la producción de la fécula de maíz por nuestra cuenta y así analizar diferentes consistencias en el resultado final. 
 
 <body style=”text-align: justify;”>
-![prueba](https://user-images.githubusercontent.com/89149133/130328221-6fc9e2f0-26a8-4443-ac54-59ebb34dede4.jpeg)
 
-_Figura 1: Suela de bioplástico_
+ ![prueba](https://user-images.githubusercontent.com/89149133/130328957-35b62159-2caf-47f4-b287-2baf5ae990f3.jpeg)
+
+_Figura 2: Suela de bioplástico_
  
 </p>
  
