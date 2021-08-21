@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
 Resumen: Una de las inquietudes más grandes en nuestro país es el incremento de la contaminación, siendo gran parte por el plástico convencional hecho a base de petróleo, es por ello que la biotecnología se ha encargado de encontrar una manera de reemplazarlos por los llamados bioplásticos. Por esta misma razón hemos decidido realizar un prototipo de suelas en base a esta gran herramienta considerando principalmente las necesidades de nuestro estado(Guanajuato) y del país en general para ayudar a esta industria a ser más sustentable.
+
+![prueba](https://user-images.githubusercontent.com/89149133/130311695-36d2ba29-42e5-42b2-b51c-277936e67795.jpeg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
