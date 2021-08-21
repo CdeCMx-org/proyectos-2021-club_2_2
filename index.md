@@ -1,3 +1,4 @@
+![prueba](https://user-images.githubusercontent.com/89149133/130329061-9318b2f8-f8d0-464c-bc24-05bd18f0489c.jpeg)
 ## SUELA DE BIOPLÁSTICO
 
 <p align="justify">
@@ -42,8 +43,8 @@ Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
 <p align="justify">
 El resultado obtenido al final de cuatro días fue una suela de plástico con una consistencia semi-rígida, lo cual podría representar una característica favorable al momento del uso. Sin embargo, la superficie presenta una textura irregular y craquelada, detalles que necesitan ser modificados mediante la prueba de diferentes concentraciones de agua y glicerina. También podría contemplarse la utilización de otros reactivos químicos que nos permitan obtener una mejor consistencia en el resultado final.  Por último, otro factor con el que se podría jugar con la producción de la fécula de maíz por nuestra cuenta y así analizar diferentes consistencias en el resultado final. 
 
-![prueba](https://user-images.githubusercontent.com/89149133/130328994-2e81f76f-3fad-4fd8-9626-f96499007d60.jpeg)
- 
+
+![prueba](https://user-images.githubusercontent.com/89149133/130329073-f42738d2-24de-4f9d-b82d-04f875edf326.jpeg)
 
 _Figura 2: Suela de bioplástico_
  
