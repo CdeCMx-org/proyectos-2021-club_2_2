@@ -67,5 +67,5 @@ No descartamos que en unos años más se pueda llevar a cabo de una manera ópti
 ### Equipo
 
 * Gloria Vanessa Vásquez Avelar
-* Estudiante 2
+* Alethia Nuria Mubarquia Guevara
 
