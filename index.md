@@ -19,7 +19,7 @@ Se ha inspirado este proyecto en lo aprendido en el club 2 "Learning machín de 
  ![old-shoes-nike](https://user-images.githubusercontent.com/89149133/130328649-9ce9625f-a031-4ee6-a889-ef9033ef59c8.jpg)
 _Figura 1: Desperdicios de la industria textil. (2016). [fotografía].  Recuperado de wwwhttps://earthwiseradio.org/2016/06/shoes-from-garbage/_
 
-<p align="justify">
+
 Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
 
 1. En una olla de cocina diluimos fécula de maíz con agua de forma uniforme, hasta que la masa tuviera una consistencia homogénea. La proporción utilizada fue de 1 cucharada por 4 cucharadas de agua. Sin embargo, esto puede variar dependiendo de las condiciones ambientales y se recomienda variar la cantidad en caso de ser necesario hasta obtener una mezcla homogénea.   
@@ -34,7 +34,6 @@ Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
 
 6.Finalmente la dejamos en un lugar seco por dos días para que se terminara de secar completamente.
 
-</p>
  
 ### Resultados
 
