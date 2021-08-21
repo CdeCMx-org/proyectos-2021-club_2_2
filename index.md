@@ -50,7 +50,7 @@ Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
  </p>
  
   <p align="justify">
-6. Finalmente la dejamos en un lugar seco por dos días para que se terminara de secar completamente.
+<b>6.<b> Finalmente la dejamos en un lugar seco por dos días para que se terminara de secar completamente.
  </p>
  
 ### Resultados
