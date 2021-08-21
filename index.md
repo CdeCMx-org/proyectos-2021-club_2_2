@@ -49,9 +49,10 @@ Para realizar nuestro prototipo llevamos a cabo los lo siguientes pasos:
 <b>5.</b> En cuanto se enfrió, retiramos el bioplástico del molde y se dejó enfriar el otro lado de la superficie de la suela.
  </p>
  
-  <p align="justify">
+<p align="justify">
 <b>6.</b> Finalmente la dejamos en un lugar seco por dos días para que se terminara de secar completamente.
- </p>
+ 
+</p>
  
 ### Resultados
 
