@@ -1,9 +1,12 @@
 ## SUELA DE BIOPLÁSTICO
 
+<center>
 Resumen: Una de las inquietudes más grandes en nuestro país es el incremento de la contaminación, siendo gran parte por el plástico convencional hecho a base de petróleo, es por ello que la biotecnología se ha encargado de encontrar una manera de reemplazarlos por los llamados bioplásticos. Por esta misma razón hemos decidido realizar un prototipo de suelas en base a esta gran herramienta considerando principalmente las necesidades de nuestro estado(Guanajuato) y del país en general para ayudar a esta industria a ser más sustentable.
+</center>
 
 ### Introducción
 
+<center>
 Esta propuesta se ha desarrollado como respuesta a las áreas de oportunidad que se encuentran en el estado de Guanajuato en relación a la industria zapatera y los factores medio ambientales de la región. Asimismo,se ha abordado el objetivo 12 "Producción y consumo responsables" de los objetivos y metas de desarollo sustentable establecidos por la Organización de las Naciones Unidas, ya que Guanajuato es la zona productora del 70% de producción total de la industria zapatera en  México y a pesar de que se han hecho esfuerzos por aumentar la sustentabilidad, la producción zapatera sigue teniendo un gran impacto en el ambiente en conjunto con la industria petrolera del estado. Por consecuencia, a lo largo de las recientes décadas,  las ciudades en Guanajuato se han catalogado entre las más contaminadas de México con niveles arriba de 51PM10. 
 
 El objetivo del prototipo de suela de zapato que hemos desarrollado a base de bioplástico, es crear una suela amable con el medio ambiente que reduzca el impacto ambiental de la industria zapatera en Guanajuato. Las características que se buscan obtener con este prototipo es reducir el tiempo de biodegradación de una suela de zapato promedio, que por sus componentes plásticos se estiman aproximadamente 200 años a menos de 10 años. Esto mediante un proceso sustentable económicamente y ambientalmente al aplicar materiales que están al alcance de la mayor parte de la población como es en este caso la fécula de maíz. 
@@ -11,7 +14,7 @@ El objetivo del prototipo de suela de zapato que hemos desarrollado a base de bi
 Adicionalmente, nuestro enfoque son principalmente los negocios pequeños y medianos. Ya que de otra manera, las grandes industrias requieren maquinaria para cantidades de tamaño industrial y constantes inspecciones de calidad en la textura por la naturaleza de la consistencia del bioplástico en cuestión. Adicionalmente en este caso, serían requeridas toneladas de maicena, siento insumos poco rentables a gran escala en cuestión al producto generado.  
 
 Se ha inspirado este proyecto en lo aprendido en el club 2 "Learning machín de polímeros" 2021, ya que se llegó a la conclusión que las características correspondientes a los polímeros dependen del Tg (Temperatura de transición vítrea) deberán ser modificadas para así obtener la flexibilidad y soporte adecuado al consumidor. Además de tomar en cuenta un mayor rango de polímeros y biopolímeros para el perfeccionamiento de la constitución química de la suela.
-
+</center>
 
 ### Métodología
 
