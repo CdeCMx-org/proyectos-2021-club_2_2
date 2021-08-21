@@ -45,7 +45,7 @@ El resultado obtenido al final de cuatro días fue una suela de plástico con un
  
 ![prueba](https://user-images.githubusercontent.com/89149133/130329061-9318b2f8-f8d0-464c-bc24-05bd18f0489c.jpeg)
 
-_Figura 2:_ G.Vásquez_Suela de bioplástico_.(2018)[fotografía].
+_Figura 2:G.Vásquez.(2018).Suela de bioplástico.[fotografía]._
  
 
  
