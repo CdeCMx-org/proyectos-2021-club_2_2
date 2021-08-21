@@ -7,12 +7,18 @@ Resumen: Una de las inquietudes más grandes en nuestro país es el incremento d
 ### Introducción
 
 <p align="justify">
-Esta propuesta se ha desarrollado como respuesta a las áreas de oportunidad que se encuentran en el estado de Guanajuato en relación a la industria zapatera y los factores medio ambientales de la región. Asimismo,se ha abordado el objetivo 12 "Producción y consumo responsables" de los objetivos y metas de desarollo sustentable establecidos por la Organización de las Naciones Unidas, ya que Guanajuato es la zona productora del 70% de producción total de la industria zapatera en  México y a pesar de que se han hecho esfuerzos por aumentar la sustentabilidad, la producción zapatera sigue teniendo un gran impacto en el ambiente en conjunto con la industria petrolera del estado. Por consecuencia, a lo largo de las recientes décadas,  las ciudades en Guanajuato se han catalogado entre las más contaminadas de México con niveles arriba de 51PM10. 
+Esta propuesta se ha desarrollado como respuesta a las áreas de oportunidad que se encuentran en el estado de Guanajuato en relación a la industria zapatera y los factores medio ambientales de la región. Asimismo, se ha abordado el objetivo 12 "Producción y consumo responsables" de los objetivos y metas de desarollo sustentable establecidos por la Organización de las Naciones Unidas, ya que Guanajuato es la zona productora del 70% de producción total de la industria zapatera en  México y a pesar de que se han hecho esfuerzos por aumentar la sustentabilidad, la producción zapatera sigue teniendo un gran impacto en el ambiente en conjunto con la industria petrolera del estado. Por consecuencia, a lo largo de las recientes décadas,  las ciudades en Guanajuato se han catalogado entre las más contaminadas de México con niveles arriba de 51PM10. 
+</p>
 
+<p align="justify">
 El objetivo del prototipo de suela de zapato que hemos desarrollado a base de bioplástico, es crear una suela amable con el medio ambiente que reduzca el impacto ambiental de la industria zapatera en Guanajuato. Las características que se buscan obtener con este prototipo es reducir el tiempo de biodegradación de una suela de zapato promedio, que por sus componentes plásticos se estiman aproximadamente 200 años a menos de 10 años. Esto mediante un proceso sustentable económicamente y ambientalmente al aplicar materiales que están al alcance de la mayor parte de la población como es en este caso la fécula de maíz. 
-
+</p>
+ 
+<p align="justify">
 Adicionalmente, nuestro enfoque son principalmente los negocios pequeños y medianos. Ya que de otra manera, las grandes industrias requieren maquinaria para cantidades de tamaño industrial y constantes inspecciones de calidad en la textura por la naturaleza de la consistencia del bioplástico en cuestión. Adicionalmente en este caso, serían requeridas toneladas de maicena, siento insumos poco rentables a gran escala en cuestión al producto generado.  
+</p>
 
+<p align="justify">
 Se ha inspirado este proyecto en lo aprendido en el club 2 "Learning machín de polímeros" 2021, ya que se llegó a la conclusión que las características correspondientes a los polímeros dependen del Tg (Temperatura de transición vítrea) deberán ser modificadas para así obtener la flexibilidad y soporte adecuado al consumidor. Además de tomar en cuenta un mayor rango de polímeros y biopolímeros para el perfeccionamiento de la constitución química de la suela.
 </p>
  
@@ -52,12 +58,14 @@ _Figura 2:G.Vásquez.(2018).Suela de bioplástico.[fotografía]._
 
 <p align="justify">
 Con base en las investigaciones realizadas, consideramos que tenemos una gran herramienta a explotar en un ámbito que nos beneficiará a todos como ciudadanos a largo plazo. Actualmente, no es muy amplio este sector y por lo tanto aún hay grandes retos por superar para lograr llevar a cabo este tipo de proyectos. Con lo que respecta a nuestro prototipo, es una idea que proponemos con el fin de lograr un cambio favorable y una vez mejorada podría representar una opción viable para su uso en la industria zapatera en Guanajuato, ya que representa a un camino de consumo/producción más amigable con el medio ambiente. 
+</p>
 
+<p align="justify">
 Asimismo, se plantea el uso de Análisis Térmico Simultáneo (DSC) para medir el Tg actual en futuros prototipos; planteando diferentes concentraciones de almidón y modificaciones químicas al integrar diversas combinaciones de biopolímeros. A modo de mejorar la flexibilidad y dureza obtenida en el prototipo actual que todavía dista de ser apta para uso humano.  
+ </p>
  
+ <p align="justify">
 Sin embargo, otra variable a considerar será el precio de producción, ya que es más alto que el de un plástico convencional, pero a futuro puede representar una reducción importante en la cantidad de residuos plásticos generados. No descartamos que en unos años más se pueda llevar a cabo de una manera óptima y a una gran escala tomando en cuenta el gran avance de la ciencia y tecnología en conjunto.
-
-
 </p>
  
 ### Video
