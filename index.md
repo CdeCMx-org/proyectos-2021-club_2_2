@@ -95,14 +95,15 @@ Sin embargo, otra variable a considerar será el precio de producción, ya que e
 
 ### Referencias
 
-1.Almeyda,A.Ruiz,J.López,N.Pettinari,J. (2004). Bioplásticos: una alternativa ecológica.. 2020, diciembre 1, de Revista Química Viva Recuperado de https://www.redalyc.org/pdf/863/86330305.pdf
-2.Avellán,A.Díaz,D.Mendoza,A.Zambrano,M.&Zamora,y. (2019). Obtención de bioplástico a partir de almidón de maíz. 2020, diciembre 1, de Revista Recuperado de http://portal.amelica.org/ameli/jatsRepo/215/215974004/html/
+1.Almeyda,A.Ruiz,J.López,N.Pettinari,J. (2004). Bioplásticos: una alternativa ecológica.2021, agosto 20, de Revista Química Viva Recuperado de https://www.redalyc.org/pdf/863/86330305.pdf
+2.Avellán,A.Díaz,D.Mendoza,A.Zambrano,M.&Zamora,y. (2019). Obtención de bioplástico a partir de almidón de maíz. 2021, agosto 20, de Revista Recuperado de http://portal.amelica.org/ameli/jatsRepo/215/215974004/html/
+3. Cuevas. Z.B. (2017). OBTENCIÓN Y CARACTERIZACIÓN DE ALMIDONES TERMOPLÁSTICOS OBTENIDOS A PARTIR DE ALMIDONES INJERTADOS CON POLIÉSTERES BIODEGRADABLES. 2021, agosto 21, de Centro de Investigación científica de Yucatán Recuperado de https://cicy.repositorioinstitucional.mx/jspui/bitstream/1003/466/1/PCM_D_Tesis_2017_Cuevas_Zujey.pdf
 <p align="justify">
-3.Gobierno del Estado de Guanajuato. (2019). Monitoreo de precios pagados al productor cosecha de maíz y sorgo ciclo PV 2019. 2020, diciembre 1, de Sdayr Gto Recuperado de https://sdayr.guanajuato.gob.mx/contenido/adjuntos/publicaciones/2019/MONITOREO_PRECIOS_SORGO_Y_MAIZ_PV_2019_281119.pdf
+4.Gobierno del Estado de Guanajuato. (2019). Monitoreo de precios pagados al productor cosecha de maíz y sorgo ciclo PV 2019. 2021, agosto 20, de Sdayr Gto Recuperado de https://sdayr.guanajuato.gob.mx/contenido/adjuntos/publicaciones/2019/MONITOREO_PRECIOS_SORGO_Y_MAIZ_PV_2019_281119.pdf
 </p>
-4.Martínez,M. (2020). México,lejos de ser autosuficiente en maíz . 2020, diciembre 1, de El economista Recuperado de https://www.eleconomista.com.mx/empresas/Mexico-lejos-de-ser-autosuficiente-en-maiz-20200126-0111.html
-5.Rodríguez L., Gallardo I., Nieblas C., & Ortiz W. (2015). Evaluación de dos variedades de sorgo para la obtención de almidón. Centro Azúcar, 42(1): 88-95. 
+5.Martínez,M. (2020). México,lejos de ser autosuficiente en maíz . 2021, agosto 20, de El economista Recuperado de https://www.eleconomista.com.mx/empresas/Mexico-lejos-de-ser-autosuficiente-en-maiz-20200126-0111.html
+6.Rodríguez L., Gallardo I., Nieblas C., & Ortiz W. (2015). Evaluación de dos variedades de sorgo para la obtención de almidón. Centro Azúcar, 42(1): 88-95. 
 Recuperado a partir de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2223-48612015000100009
-6.Sánchez,J. (2018). Cómo hacer plástico biodegradable con maicena. 2020, diciembre 1, de Ecología Verde Recuperado de https://www.ecologiaverde.com/como-hacer-plastico-biodegradable-con-maicena-1535.html
+7.Sánchez,J. (2018). Cómo hacer plástico biodegradable con maicena. 2020, diciembre 1, de Ecología Verde Recuperado de https://www.ecologiaverde.com/como-hacer-plastico-biodegradable-con-maicena-1535.html
 
 
