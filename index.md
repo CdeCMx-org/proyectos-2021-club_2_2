@@ -1,9 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CdeCMx-org/proyectos-2021-club_2_2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Resumen: Una de las inquietudes más grandes en nuestro país es el incremento de la contaminación, siendo gran parte por el plástico convencional hecho a base de petróleo, es por ello que la biotecnología se ha encargado de encontrar una manera de reemplazarlos por los llamados bioplásticos. Por esta misma razón hemos decidido realizar un prototipo de suelas en base a esta gran herramienta considerando principalmente las necesidades de nuestro estado(Guanajuato) y del país en general para ayudar a esta industria a ser más sustentable.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
