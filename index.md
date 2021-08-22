@@ -115,3 +115,5 @@ Recuperado a partir de http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2
 7.Sánchez,J. (2018). Cómo hacer plástico biodegradable con maicena. 2020, diciembre 1, de Ecología Verde Recuperado de https://www.ecologiaverde.com/como-hacer-plastico-biodegradable-con-maicena-1535.html
 </p>
 
+Nota: Hicimos lo mejor que pudimos, no sabemos mucho de programación.
+
